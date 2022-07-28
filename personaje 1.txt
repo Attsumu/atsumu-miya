@@ -1,0 +1,3 @@
+Nombre=Atsumu
+Vida=200
+Poder=10
