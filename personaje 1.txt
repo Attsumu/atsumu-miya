@@ -1,3 +1,8 @@
 Nombre=Atsumu
 Vida=200
 Poder=10
+
+Personaje 2:
+Nombre=Fran
+Vida=002
+Poder=25
